@@ -1,6 +1,6 @@
 package mod_support_stuff;
 
-import States.MainMenuState.MainMenuItemAlignment;
+import states.MainMenuState.MainMenuItemAlignment;
 import flixel.util.FlxColor;
 
 typedef MainMenuJson = {
